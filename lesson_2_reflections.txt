@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git directory is created which contains meta data about commits.
+Why? To hold information about each commit.
+

@@ -5,6 +5,8 @@ Why? To hold information about each commit.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+staging area contains modified file at local system added by "git add" command
+
 Staging area is cache type (change is temperary) where working directory and repository change is permanent.
 It offer flexbility and cross checking of files just before doing any commit.
 
